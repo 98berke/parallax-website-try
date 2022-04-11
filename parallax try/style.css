@@ -1,0 +1,86 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+}
+
+.pimg1{
+    background:url(https://img.freepik.com/free-photo/high-angle-shot-city-buildings-new-york-manhattan_181624-24684.jpg?t=st=1649712746~exp=1649713346~hmac=e436ddc2255acf53ed02c4ca957eac33676a44b74c0d5849b268b5769d5981d6&w=1380);
+    background-size: cover;
+    width:100%;
+    height:1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  
+}
+
+.ptext{
+    position: relative;
+    top:50%;
+    width: 100%;
+    font-weight: 600;
+
+}
+
+.ptext .pr1{
+    position: absolute;
+    top: 50%;
+    right: 39%;
+    font-weight: 400px;
+    color: white;
+    background-color: rgb(71, 179, 155);
+    padding: 25px;
+    font-size: 40px;
+    border: 1px solid white;
+    border-radius: 12px;
+}
+
+.section-ligth{
+    width: 100%;
+    color: #666;
+}
+.section {
+    text-align: center;
+    padding: 50px 80px;
+    display:block;
+
+}
+
+
+.pimg2{
+    background:url(https://img.freepik.com/free-photo/bridge-sunset_1122-2168.jpg?t=st=1649714924~exp=1649715524~hmac=309c8f7028925bed71626ab266ba79d06222bdc097d121fe97beabb181614e06&w=1380);
+    background-size: cover;
+    width:100%;
+    height:1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.border-trans{
+    text-align: center;
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    font-size: 80px;
+    color: aliceblue;
+    letter-spacing: 1rem;
+    
+}
+
+.pimg3{
+    background:url(https://img.freepik.com/free-photo/panoramic-view-big-ben-london-sunset-uk_268835-1401.jpg?t=st=1649715452~exp=1649716052~hmac=10f575562fd5a83e603792cee52a3f7b369f1286d59af8bdd39be6cef38395b6&w=1380);
+    background-size: cover;
+    width:100%;
+    height:1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.section-dark{
+    background-color: #666;
+    color: aliceblue;
+}
